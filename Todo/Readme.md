@@ -4,7 +4,7 @@ TodoList Rest API - Swagger
 
 ## 1. ConnectionString query in SQL
 
-#### We build a new Db name like: Initial Catalog=MyDbfoobar.
+#### We build a new Db name like MyDb: (Initial Catalog=MyDb)
 
 ```sql
 SELECT
